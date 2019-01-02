@@ -1,12 +1,12 @@
 #TITLE:Hope & Joy Peace & Love;
-#SUBTITLE:Gradius;
+#SUBTITLE:Gradius III (1989);
 #ARTIST:Miki Higashino;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.jpg;
-#BACKGROUND:bg.jpg;
+#BANNER:hope-bn.png;
+#BACKGROUND:hope-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Hope & Joy Peace & Love.mp3;
@@ -23,8 +23,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     11:
      0.894,0.946,1.000,0.113,1.000:  // measure 1
 0100
 1000

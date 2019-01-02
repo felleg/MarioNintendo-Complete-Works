@@ -1,12 +1,12 @@
 #TITLE:Balloon Fight Medley;
-#SUBTITLE:Super Smash Bros. for Wii U / 3DS;
+#SUBTITLE:Super Smash Bros. for Wii U (2014);
 #ARTIST:Hirokazu Tanaka, Arr. Yoshihito Yano;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.jpg;
+#BANNER:bfm-bn;
+#BACKGROUND:bfm-bg;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Balloon Fight Medley.mp3;
@@ -33,7 +33,7 @@
      dance-single:
      :
      Hard:
-     1:
+     12:
      1.000,1.000,1.000,0.348,1.000:  // measure 1
 0110
 0000
@@ -1902,7 +1902,7 @@
 0001
 0000
 1000
-0010
+0000
 1001
 0000
 ,  // measure 48

@@ -1,12 +1,12 @@
-#TITLE:Ground Theme - Underground Theme;
-#SUBTITLE:Super Smash Bros. for Wii U / 3DS;
+#TITLE:Ground Theme / Underground Theme;
+#SUBTITLE:Super Smash Bros. for Wii U (2014);
 #ARTIST:Koji Kondo, Arr. Tetsuya Shibata;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:banner.png;
-#BACKGROUND:backr.jpg;
+#BANNER:gtutbn.png;
+#BACKGROUND:gtutbg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:1-03 Ground Theme_Underground Theme.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Hard:
-     1:
+     Challenge:
+     14:
      1.000,1.000,1.000,1.000,1.000:  // measure 1
 1110
 0001
@@ -5002,8 +5002,8 @@ M000
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     12:
      1.000,1.000,1.000,1.000,1.000:
 1110
 0001

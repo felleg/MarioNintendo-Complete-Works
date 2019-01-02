@@ -1,14 +1,14 @@
-#TITLE:Shovel Knight Main Theme;
-#SUBTITLE:;
+#TITLE:Main Theme;
+#SUBTITLE:Shovel Knight (2014);
 #ARTIST:Jake Kaufman;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:maintheme-bn.png;
+#BACKGROUND:maintheme-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:01 Main Theme.mp3;
 #OFFSET:-0.033;
 #SAMPLESTART:40.093;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,0.104,1.000:  // measure 1
 1000
 0100

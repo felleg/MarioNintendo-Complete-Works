@@ -1,12 +1,12 @@
 #TITLE:Gear Getaway;
-#SUBTITLE:Donkey Kong Country Returns;
+#SUBTITLE:Donkey Kong Country Returns (2010);
 #ARTIST:Minako Hamano, Arr. Noriyuki Iwadare;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:geargetaway-bn.png;
+#BACKGROUND:geargetaway-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:2-06 Gear Getaway (Donkey Kong Count.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,1.000,1.000:  // measure 1
 0011
 0000

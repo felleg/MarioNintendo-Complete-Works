@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:bluefieldbn.png;
+#BACKGROUND:bluefield.png;
 #LYRICSPATH:;
 #CDTITLE:!mariomacTitle.png;
 #MUSIC:Blue Field & Catch'em Theme.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,0.404,1.000:  // measure 1
 0102
 0003

@@ -1,12 +1,12 @@
 #TITLE:Mario Paint Medley;
-#SUBTITLE:Super Smash Bros. for Wii U / 3DS;
+#SUBTITLE:Super Smash Bros. for Wii U (2014);
 #ARTIST:Taku Inoue;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:mario-banner.png;
-#BACKGROUND:mario-bg.jpg;
+#BANNER:mariopaint-bn.png;
+#BACKGROUND:mariopaint-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:2-30 Mario Paint Medley.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,0.801,1.000:  // measure 1
 0100
 0000

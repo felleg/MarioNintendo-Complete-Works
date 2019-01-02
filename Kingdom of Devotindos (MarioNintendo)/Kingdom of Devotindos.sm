@@ -1,12 +1,12 @@
 #TITLE:Kingdom of Devotindos;
-#SUBTITLE:Rocket Knight Adventures;
-#ARTIST:Konami;
+#SUBTITLE:Rocket Knight Adventures (1993);
+#ARTIST:Akira Yamaoka;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.jpg;
+#BANNER:kodbn.png;
+#BACKGROUND:kodbg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Kingdom of Devotindos.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     11:
      1.000,1.000,1.000,0.741,1.000:  // measure 1
 0001
 0000

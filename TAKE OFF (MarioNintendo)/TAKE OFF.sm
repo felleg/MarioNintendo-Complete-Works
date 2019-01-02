@@ -1,11 +1,11 @@
 #TITLE:TAKE OFF;
-#SUBTITLE:Thunder Force VI;
-#ARTIST:Sega;
+#SUBTITLE:Thunder Force VI (2008);
+#ARTIST:	Tamayo Kawamoto, Motoaki Furukawa, Go Sato, Tsuyoshi Kaneko;
 #CREDIT:;
 #MUSIC:TAKE OFF.mp3;
 #SELECTABLE:YES;
-#BACKGROUND:bg.png;
-#BANNER:bn.png;
+#BACKGROUND:takeoffbg.png;
+#BANNER:takeoffbn.png;
 #CDTITLE:!mntitle.png;
 #OFFSET:-0.144667;
 #SAMPLESTART:37.633;
@@ -17,7 +17,7 @@
      dance-single:
      :
      Hard:
-     1:
+     15:
      0.000,0.000,0.000,0.000,0.000:
 1110
 0000

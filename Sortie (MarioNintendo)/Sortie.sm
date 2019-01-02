@@ -1,12 +1,12 @@
 #TITLE:Sortie;
-#SUBTITLE:Gauntlet IV;
+#SUBTITLE:Gauntlet IV (1993);
 #ARTIST:Hitoshi Sakimoto;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:sortiebn.png;
+#BACKGROUND:sortiebg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Sortie.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     13:
      1.000,1.000,1.000,0.518,1.000:  // measure 1
 1000
 0000

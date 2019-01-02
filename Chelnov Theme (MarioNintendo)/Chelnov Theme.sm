@@ -1,12 +1,12 @@
 #TITLE:Chelnov Theme;
-#SUBTITLE:Atomic Runner;
-#ARTIST:Data East;
+#SUBTITLE:Atomic Runner (1988);
+#ARTIST:Azusa Hara, Hiroaki Yoshida, Tatsuya Kiuchi, Tenno;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:banner.png;
-#BACKGROUND:background.png;
+#BANNER:chelnov-bn.png;
+#BACKGROUND:chelnov-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Chelnov Theme.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     12:
      1.000,1.000,1.000,0.991,1.000:  // measure 1
 1000
 0000

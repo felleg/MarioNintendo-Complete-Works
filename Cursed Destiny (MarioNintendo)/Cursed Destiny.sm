@@ -1,12 +1,12 @@
 #TITLE:Cursed Destiny;
-#SUBTITLE:Elemental Master;
+#SUBTITLE:Elemental Master (1990);
 #ARTIST:Toshiharu Yamanishi, Arr. Stone McKnuckle;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:cdbn.png;
+#BACKGROUND:cdbg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Cursed Destiny.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     16:
      1.000,1.000,1.000,1.000,1.000:  // measure 1
 0110
 1201

@@ -1,12 +1,12 @@
 #TITLE:Life Flashing Before One's Eyes;
-#SUBTITLE:Mecha Ritz Steel Rondo;
+#SUBTITLE:Mecha Ritz\: Steel Rondo (2016);
 #ARTIST:HEY;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:fbn.png;
+#BACKGROUND:fbg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Life Flashing Before One's Eyes.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     14:
      1.000,1.000,1.000,1.000,1.000:  // measure 1
 1001
 0010

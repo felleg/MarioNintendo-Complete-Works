@@ -1,12 +1,12 @@
 #TITLE:City;
-#SUBTITLE:Might Morphin Power Rangers (SNES);
+#SUBTITLE:Mighty Morphin Power Rangers (1994);
 #ARTIST:Iku Mizutani & Kinuyo Yamashita;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:city-bn.png;
+#BACKGROUND:city-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Power Rangers SNES - City.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     10:
      1.000,0.950,1.000,1.000,1.000:  // measure 1
 1001
 0000
@@ -934,7 +934,7 @@
      dance-single:
      :
      Challenge:
-     1:
+     17:
      1.000,1.000,1.000,1.000,1.000:
 1101
 0000

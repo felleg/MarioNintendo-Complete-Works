@@ -1,29 +1,68 @@
-#TITLE:DARK DEMON'S SONG;
-#SUBTITLE:Dynamite Headdy;
-#ARTIST:Nazo2 Suzuki;
+#TITLE:Dark Demon's Song;
+#SUBTITLE:Dynamite Headdy (1994);
+#ARTIST:Katsuhiko Suzuki, Koji Yamada, Norio Hanzawa, Aki Hata;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
+#GENRE:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:;
+#BANNER:dds-bn.png;
+#BACKGROUND:dds-bg1.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:DARK DEMON'S SONG.mp3;
 #OFFSET:-0.459;
 #SAMPLESTART:61.533;
-#SAMPLELENGTH:12.000;
+#SAMPLELENGTH:12.000000;
 #SELECTABLE:YES;
 #BPMS:0.000=112.500,3.000=116.297,4.000=108.947,5.000=115.971,6.000=109.235,7.000=116.955,8.000=105.334,9.000=121.426,10.000=107.806,11.000=117.626,12.000=107.806,13.000=112.500,32.000=29.301,32.063=32.237,32.125=35.276,32.188=31.103,32.250=33.055,32.313=26.777,32.375=29.997,32.438=35.904,32.500=35.668,32.542=68.906,32.583=17.072,32.604=38.070,32.646=73.845,32.688=31.126,32.708=24.146,32.729=38.903,32.750=37.146,32.771=28.607,32.792=29.765,32.813=26.031,33.000=59.898,34.000=59.985,35.000=59.898,36.000=59.897,39.000=59.898,40.000=59.897,41.000=59.898,42.000=59.897,45.000=59.902,46.000=59.909,47.000=59.908,49.000=59.909,50.000=119.848,51.000=119.853,52.000=119.848,53.000=119.853,54.000=119.848,83.000=119.853,84.000=119.848,87.000=119.853,88.000=119.848,113.000=119.853,114.000=119.848,117.000=119.853,118.000=119.848,141.000=119.853,142.000=119.848,145.000=119.853,146.000=119.848,153.000=119.815,154.000=129.174,155.000=123.024,156.000=274.027,157.000=256.993,189.000=252.288,190.000=256.993,221.000=253.837,222.000=256.993,239.000=249.246,240.000=256.993,260.000=266.090,262.000=261.980,266.000=266.197,268.000=257.895,270.000=261.980,284.000=65.495,286.000=261.980,292.000=267.922,294.000=264.494,296.000=259.514,298.000=263.651,300.000=254.717,302.000=270.552,304.000=261.980,314.000=256.296,316.000=250.853,318.000=59.897,319.000=59.984,320.000=59.897,321.000=59.898,322.000=59.897,327.000=59.898,328.000=59.897,330.000=59.902,331.000=59.909,332.000=59.908;
-#STOPS:;
-#BGCHANGES:;
+#STOPS:
+;
+#BGCHANGES:50.000=dds-bg3.png=1.000=1=0=1===CrossFade==,
+60.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+68.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+76.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+84.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+92.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+100.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+108.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+116.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+124.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+132.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+140.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+148.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+156.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+164.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+172.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+180.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+188.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+196.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+204.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+212.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+220.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+228.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+236.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+244.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+252.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+260.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+268.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+276.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+284.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+292.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+300.000=dds-bg4.png=1.000=0=0=1===FadeCenterHorizontal==,
+308.000=dds-bg3.png=1.000=0=0=1===FadeCenterHorizontal==,
+318.000=dds-bg1.png=1.000=1=0=1===CrossFade==,
+99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
+;
+#KEYSOUNDS:;
+#ATTACKS:;
 
 //---------------dance-single - ----------------
 #NOTES:
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,1.000,1.000:  // measure 1
 0100
 1000

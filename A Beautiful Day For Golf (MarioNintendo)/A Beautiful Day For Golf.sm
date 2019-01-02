@@ -1,12 +1,12 @@
 #TITLE:A Beautiful Day For Golf;
-#SUBTITLE:Neo Turf Masters;
-#ARTIST:Nazca;
+#SUBTITLE:Neo Turf Masters (1996);
+#ARTIST:Takushi Hiyamuta;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.jpg;
+#BANNER:abdfg-bn.png;
+#BACKGROUND:abdfg-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:A Beautiful Day For Golf.mp3;
@@ -24,8 +24,8 @@
 #NOTES:
      dance-single:
      :
-     Easy:
-     1:
+     Medium:
+     8:
      0.617,0.628,0.828,0.900,0.720:  // measure 1
 0000
 0000
@@ -556,8 +556,8 @@ M000
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     11:
      1.000,0.952,1.000,1.000,1.000:
 0000
 0000
@@ -2256,8 +2256,8 @@ M000
 #NOTES:
      dance-single:
      :
-     Hard:
-     1:
+     Challenge:
+     12:
      1.000,1.000,1.000,1.000,1.000:
 0000
 0000

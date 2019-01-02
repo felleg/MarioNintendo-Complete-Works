@@ -1,12 +1,12 @@
 #TITLE:Magical Sound Shower;
-#SUBTITLE:Out Run;
-#ARTIST:Sega;
+#SUBTITLE:Out Run (1986);
+#ARTIST:Hiroshi Kawaguchi;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:banner.png;
-#BACKGROUND:background.png;
+#BANNER:mssbn.png;
+#BACKGROUND:mssbg.png.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:OutRun - Magical Sound Shower.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     13:
      1.000,1.000,1.000,0.460,1.000:  // measure 1
 0100
 0000

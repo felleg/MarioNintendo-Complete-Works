@@ -1,0 +1,13 @@
+This stepchart was made for xXOPKillerXx 
+to see how good he fares at stupid dump
+charts that suck. Who knows, this chart 
+might end up in a famous SM pack in the 
+future! In the meantime, enjoy was is 
+probably my favorite song from Marie 
+Carmen, stepped in the least appropriate
+way possible.
+
+<3 fuck you all
+-mn
+
+p.s.: https://www.youtube.com/watch?v=bRz6hs6bXJw

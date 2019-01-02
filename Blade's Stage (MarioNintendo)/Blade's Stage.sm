@@ -1,12 +1,12 @@
 #TITLE:Blade's Stage;
-#SUBTITLE:Eternal Champions;
-#ARTIST:Sega Interactive;
+#SUBTITLE:Eternal Champions (1993);
+#ARTIST:Joe Delia, John Hart, Jeff Marsh, Adrian Van Velssen, Andy Armor;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:bladestage-bn.png;
+#BACKGROUND:bladestage-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Blade's Stage.mp3;
@@ -23,8 +23,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     1:
+     Hard:
+     13:
      0.589,0.721,0.217,0.347,0.393:  // measure 1
 2100
 0001

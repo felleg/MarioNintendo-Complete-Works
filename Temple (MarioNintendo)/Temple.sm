@@ -1,12 +1,12 @@
 #TITLE:Temple;
-#SUBTITLE:Zelda II - The Adventure of Link;
+#SUBTITLE:Zelda II\: The Adventure of Link (1987);
 #ARTIST:Shnabubula;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bn.png;
-#BACKGROUND:bg.png;
+#BANNER:Temple-bn.png;
+#BACKGROUND:Temple-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Temple.mp3;
@@ -24,7 +24,7 @@
      dance-single:
      :
      Hard:
-     1:
+     14:
      1.000,1.000,1.000,0.708,1.000:  // measure 1
 1110
 0110
