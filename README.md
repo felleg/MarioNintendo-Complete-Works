@@ -6,4 +6,8 @@ by [MarioNintendo](http://www.flashflashrevolution.com/profile/MarioNintendo/), 
 If you are curious about a specific file, find the `aboutThisFile.txt` included in
 each song folder.
 
+# How to download this pack
+Scroll back to the top of this page, and click the download button:
+![How to download this pack](howtodownload.png)
+
 Enjoy!
