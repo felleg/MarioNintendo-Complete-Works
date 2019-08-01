@@ -10,4 +10,8 @@ each song folder.
 Scroll back to the top of this page, and click the download button:
 ![How to download this pack](howtodownload.png)
 
+# How to download songs individually
+Don't want to download the full pack? Simply follow these steps:
+![How to download a single song](download1song.png)
+
 Enjoy!
