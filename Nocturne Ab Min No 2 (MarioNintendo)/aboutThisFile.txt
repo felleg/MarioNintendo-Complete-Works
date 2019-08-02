@@ -1,4 +1,5 @@
-This file is special to me. It is the dawn of something great. My entire stepping career! Let me explain.
+This file is special to me. It is the dawn of something great. My actual stepping career! Out with the old F8
+minipack of doom junk. It was time to make true art... Let me explain.
 
 Back in 2008 when I discovered StepMania, the first thing I wanted to attempt was creating songs. There were
 two problems: 1) all the songs I wanted to step didn't have a constant BPM, making it very hard to keep sync.
@@ -33,5 +34,8 @@ about stepping from that forum, including learning about DDReamStudio from who_c
 
 Please enjoy this out-of-sync mess. It was made with an immense amount of love. Without it, this entire pack
 would probably not exist.
+
+
+Here is the earliest known version of this file: https://www.youtube.com/watch?v=4eWbiHLXEa8
 
 -mn
