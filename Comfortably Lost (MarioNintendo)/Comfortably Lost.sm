@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:Comfortably Lost.mp3;
 #OFFSET:-1.948;
 #SAMPLESTART:51.928;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     9:
+     7:
      1.000,0.989,1.000,0.000,1.000:  // measure 1
 0011
 0000

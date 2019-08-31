@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:botu1.mp3;
 #OFFSET:-2.370;
 #SAMPLESTART:80.826;
@@ -24,7 +24,7 @@
      dance-single:
      :
      Easy:
-     4:
+     2:
      0.275,0.274,0.061,0.000,0.035:  // measure 1
 0010
 1000

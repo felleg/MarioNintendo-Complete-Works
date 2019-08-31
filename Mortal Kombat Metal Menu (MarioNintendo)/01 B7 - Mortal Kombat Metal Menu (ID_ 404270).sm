@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:Mortal Kombat Metal Menu - Burn7.mp3;
 #OFFSET:-2.091;
 #SAMPLESTART:56.636;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Challenge:
-     10:
+     Hard:
+     8:
      1.000,1.000,1.000,0.000,0.929:  // measure 1
 1100
 0000

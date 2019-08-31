@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:ftriste-bg.jpg;
+#BANNER:loituma.png;
+#BACKGROUND:loituma-bg.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!udderTitle.png;
 #MUSIC:Loituma Speedcore.mp3;
 #OFFSET:-1.050;
 #SAMPLESTART:84.000;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Challenge:
-     10:
+     Hard:
+     7:
      1.000,1.000,1.000,0.510,0.826:  // measure 1
 0000
 0000

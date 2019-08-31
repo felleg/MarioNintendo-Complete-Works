@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:He's a Pirate - F-777 ReMiX.mp3;
 #OFFSET:-2.054;
 #SAMPLESTART:2.001;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Challenge:
-     1:
+     Hard:
+     7:
      1.000,1.000,1.000,0.000,0.950:  // measure 1
 1011
 0000

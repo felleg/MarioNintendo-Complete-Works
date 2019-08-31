@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:winter.png;
-#BACKGROUND:winter-bg.png;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
 #CDTITLE:!udderTitle.png;
 #MUSIC:171378_trickyssong5.mp3;
@@ -22,8 +22,8 @@
 #NOTES:
      dance-single:
      :
-     Hard:
-     8:
+     Medium:
+     5:
      1.000,1.000,0.826,1.000,1.000:  // measure 1
 0000
 0000

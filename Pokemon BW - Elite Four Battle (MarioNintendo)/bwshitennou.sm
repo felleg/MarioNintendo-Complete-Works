@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:BACKGROUND.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:bwshitennou.mp3;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     1:
+     9:
      1.000,1.000,1.000,0.000,1.000:  // measure 1
 1000
 0100

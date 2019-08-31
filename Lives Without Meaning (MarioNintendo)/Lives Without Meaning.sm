@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:Lives Without Meaning.mp3;
 #OFFSET:-2.419;
 #SAMPLESTART:61.777;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     10:
+     8:
      0.892,1.000,1.000,0.000,0.696:  // measure 1
 0000
 0000

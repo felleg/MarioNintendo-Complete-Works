@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:Love, The Elephant.mp3;
 #OFFSET:-6.119;
 #SAMPLESTART:42.430;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Medium:
-     1:
+     4:
      0.742,0.708,0.881,0.000,0.031:  // measure 1
 1000
 0010

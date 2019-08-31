@@ -1,5 +1,5 @@
 #TITLE:CandyPop;
-#SUBTITLE:;
+#SUBTITLE:AMV by koopiskeva;
 #ARTIST:Heartsdales feat. SOUL'd OUT;
 #TITLETRANSLIT:;
 #SUBTITLETRANSLIT:;
@@ -53,12 +53,12 @@
 99999=-nosongbg-=1.000=0=0=0 // don't automatically add -songbackground-
 ;
 
-//---------------dance-single - AMV by Koopiskeva----------------
+//---------------dance-single - ----------------
 #NOTES:
      dance-single:
-     AMV by Koopiskeva:
-     Hard:
-     11:
+     :
+     Medium:
+     6:
      0.939,1.000,1.000,0.974,0.688:  // measure 1
 0000
 0000
@@ -3160,8 +3160,8 @@
 #NOTES:
      dance-single:
      :
-     Medium:
-     5:
+     Easy:
+     3:
      0.384,0.454,0.271,0.310,0.003:
 0000
 0000

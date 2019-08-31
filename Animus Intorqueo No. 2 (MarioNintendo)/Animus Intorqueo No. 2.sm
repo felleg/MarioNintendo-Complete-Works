@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:MarioNintendotitle.png;
+#CDTITLE:!mntitle.png;
 #MUSIC:Animus Intorqueo No. 2.mp3;
 #OFFSET:-2.443;
 #SAMPLESTART:45.827;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     10:
+     8:
      1.000,1.000,1.000,0.000,1.000:  // measure 1
 0100
 0000

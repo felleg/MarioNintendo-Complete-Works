@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!udderTitle.png;
 #MUSIC:unf.mp3;
 #OFFSET:-0.041;
 #SAMPLESTART:30.021;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     9:
+     6:
      1.000,1.000,1.000,0.000,0.402:  // measure 1
 0000
 0000

@@ -5,10 +5,10 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:banner.png;
+#BACKGROUND:background.png;
 #LYRICSPATH:;
-#CDTITLE:;
+#CDTITLE:!mntitle.png;
 #MUSIC:Xkur Top Secreut Preview!!!!!!!.mp3;
 #OFFSET:-2.074;
 #SAMPLESTART:44.931;
@@ -23,7 +23,7 @@
      dance-single:
      :
      Hard:
-     9:
+     7:
      1.000,1.000,1.000,0.000,0.972:  // measure 1
 0000
 0000

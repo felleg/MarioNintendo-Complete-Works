@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:bfm-bn;
-#BACKGROUND:bfm-bg;
+#BANNER:bfm-bn.png;
+#BACKGROUND:bfm-bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Balloon Fight Medley.mp3;
@@ -33,7 +33,7 @@
      dance-single:
      :
      Hard:
-     12:
+     7:
      1.000,1.000,1.000,0.348,1.000:  // measure 1
 0110
 0000
