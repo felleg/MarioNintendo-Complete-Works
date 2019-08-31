@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:bn.png;
+#BACKGROUND:bg.jpg;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:meganeko  Computer BluesTechnokinesis.ogg;
