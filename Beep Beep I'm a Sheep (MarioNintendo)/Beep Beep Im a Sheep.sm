@@ -5,8 +5,8 @@
 #SUBTITLETRANSLIT:;
 #ARTISTTRANSLIT:;
 #CREDIT:;
-#BANNER:;
-#BACKGROUND:;
+#BANNER:bn.png;
+#BACKGROUND:bg.png;
 #LYRICSPATH:;
 #CDTITLE:!mntitle.png;
 #MUSIC:Beep Beep Im a Sheep.mp3;
