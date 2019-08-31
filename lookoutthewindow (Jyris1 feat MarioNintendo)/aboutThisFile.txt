@@ -1,2 +1,4 @@
 This is a file I helped tweak from Jyris1 (the creator of DDReamStudio). This is a file he used as a tutorial for
 DDReamStudio newcomers.
+
+See http://www.flashflashrevolution.com/vbz/showpost.php?p=3672495&postcount=1
