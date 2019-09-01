@@ -6,6 +6,8 @@ by [MarioNintendo](http://www.flashflashrevolution.com/profile/MarioNintendo/), 
 If you are curious about a specific file, find the `aboutThisFile.txt` included in
 each song folder.
 
+Enjoy!
+
 # How to download this pack
 Scroll back to the top of this page, and click the download button:
 ![How to download this pack](howtodownload.png)
@@ -14,92 +16,8 @@ Scroll back to the top of this page, and click the download button:
 Don't want to download the full pack? Simply follow these steps:
 ![How to download a single song](download1song.png)
 
-# Song creation timeline
-To the best of my knowledge, here is the rough order in which I stepped the files in this pack:
 
-```
-2009
-Goodbye Yellow Brick Road (This file is lost)
-Bring Back That Leroy Brown (This file is lost)
-Loituma Speedcore
-Hell in 3 Seconds
-The Time Warp
-Jungle
-FFReedom
-
-2010
-Candy Pop
-Don't give a FUCK
-Nocturne Ab Min No 2
-In Flux
-Spacefarer
-Animus Intorqueo 1
-Animus Intorqueo 2
-Animus Intorqueo 3
-Automata
-Comfortably Lost
-Stress
-
-2011
-Unf
-Baby Still Too Fat
-He's A Pirate
-I hate humans
-Submission Rules
-Botu1
-Lives Without Meaning
-Xanthystrauma
-
-2012
-FF7 - Theme of Aeris
-Redirected Moonlight
-Art of the Madness
-Mario Mix for Piano
-Unshakeable
-Jazzman - Super Mario Bros.
-Car select
-
-
-2013
--Slapstick-
-Accelerator
-La fuite des jours
-
-2014
-
-2015
-Moon Trance
-Entre l'ombre et la lumiere
-Magical Sound Shower
-Ground Theme - Underground Theme
-
-2016
-The Void of Space
-A Beautiful Day For Golf
-DARK DEMON'S SONG
-Gear Getaway
-Balloon Fight Medley
-City
-Kingdom of Devontindos
-TAKE OFF
-Alien Lair
-Underwater
-Temple
-Hardwired
-2017
-I've Got Rhythm
-
-
-2018
-Tiger Rag
-Computer Blues
-Aleph-0
-
-2019
-Firewall
-```
-
-## Note about CD-titles
+# Note about CD-titles
 You will generally find two CD titles in this pack. They useful to distinguish my older files from my newer
 files.
 
@@ -120,7 +38,7 @@ On September 24 2012, ![ScylaX](http://flashflashrevolution.com/profile/ScylaX) 
 brand new CD title for me. My request was the following:
 
 ```
-How about a Super Mario 8-bit head with thin black outline 
+How about a Super Mario 8-bit head with thin black outline
 and my username right under it in small cool stylish blocky 8-bit outlined freecam100% text?
 
 (I feel like I'm 12)
@@ -130,4 +48,146 @@ This was pretty much exactly the CD title I craved. I have been using the CD tit
 "modern" files. I consider my modern files to start in Q4 2010, meaning everything created after (and
 including) `Nocturne Ab Min No 2`.
 
-Enjoy!
+# Song creation timeline
+To the best of my knowledge, here is the rough order in which I stepped the files in this pack:
+
+```
+2009
+Goodbye Yellow Brick Road (This file is lost)
+Bring Back That Leroy Brown (This file is lost)
+Winter
+{Rose} Remastered
+Candy Pop
+Mr Larpus
+Loituma Speedcore
+Metropolis
+Hell in 3 Seconds
+The Time Warp
+Jungle
+Tricky's Song
+FFReedom
+
+2010
+Don't give a FUCK
+Nocturne Ab Min No 2
+In Flux
+Spacefarer
+Animus Intorqueo 1
+Animus Intorqueo 2
+Animus Intorqueo 3
+Automata
+Comfortably Lost
+Stress
+
+2011
+Unf
+botu1
+Baby Still Too Fat
+Love, The Elephant
+He's A Pirate
+Mortal Kombat Metal Menu
+spanish
+Submission Rules
+Lives Without Meaning
+umad
+I hate humans
+Xanthystrauma
+
+2012
+Never Enough
+S
+FF7 - Theme of Aeris
+ULTRANumb
+Pictures at an Exhibition
+Redirected Moonlight
+shes got moxie
+lookoutthewindow
+.357 Magnum
+Art of the Madness
+Mario Mix for Piano
+Jazzman - Super Mario Bros.
+Pokemon BW - Elite Four
+Mega Man 9 Rock Medley
+Unshakeable
+Car select
+A Crimson Rose and a Gin Tonic
+
+2013
+-Slapstick-
+Felix^3
+Accelerator
+PWRPFF RAVES
+La fuite des jours
+Heaven's Gate
+
+2014
+Frainbreeze
+O Canada
+Wheelpower & Go
+Spinal Fluid Explosion Girl
+Space Threat
+Shovel Knight Main Theme
+Magical Sound Shower
+
+2015
+Moon Trance
+Entre l'ombre et la lumiere
+Fghjukiolkijhngbfvrgthyujikolkijuhgbfvrtgyhujioikj
+Drive of Unliving Things
+Mario Paint Medley
+Ground Theme - Underground Theme
+
+2016 (craziest year)
+// (Splitting by month because I made a lot of songs for VGMP4 !!)
+// January
+	Chelnov Theme
+// February
+	The Void of Space
+	A Beautiful Day For Golf
+// March
+	Hope & Joy Peace & Love
+	DARK DEMON'S SONG
+	Gear Getaway
+	Balloon Fight Medley
+// April
+	The Mysterious Murasame Castle
+// May
+	Black Rain
+	Coeur de Ceramique
+	Staff Credits (Mario Kart 7)
+	You're IZAYOI
+// June
+	City
+	Kingdom of Devotindos
+	Blue Field & Catch'em Theme
+	Alien Lair
+	Blade's Theme
+	TAKE OFF
+	Sortie
+	Inner Goldfield
+	Ending Theme
+	Life Flashing Before One's Eyes
+	Cursed Destiny
+	Underwater
+	Gerudo Valley
+	Temple
+// September (after the VGMP4 release)
+Megalovania (never added to VGMP4)
+
+// Also...
+Hardwired
+12-gauge pez dispenser
+Area A
+
+2017
+Beep Beep I'm a Sheep
+I've Got Rhythm
+
+2018
+Tiger Rag
+Computer Blues
+Aleph-0
+
+2019
+Firewall
+```
