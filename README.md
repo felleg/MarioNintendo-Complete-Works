@@ -24,7 +24,7 @@ files.
 
 ## Original CD title
 ![](og-mntitle.png)
-This CD title is the original CD title I made for myself in Microsoft Paint, back in 2008 (or was it 2007?).
+This CD title is the original CD title I made for myself in Microsoft Paint, back in 2008.
 If there's one thing you should notice, it's that even after all these years, I still use Paint for just about
 everything.
 
