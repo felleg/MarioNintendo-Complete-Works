@@ -28,7 +28,10 @@ This CD title is the original CD title I made for myself in Microsoft Paint, bac
 If there's one thing you should notice, it's that even after all these years, I still use Paint for just about
 everything.
 
-I have used this CD title from 2008 to 2010. Pretty much no one knew about the existence of this CD title,
+I have used this CD title from 2008 to 2010. Its file name was `!udderTitle.png` because I had copied the file
+structure from a file I had downloaded on the FFR Simfile Database (Udderdude's {Rose} Remastered). I had not
+realized that "udder" in the filename referred to someone else's username, and so I lugged that CD title around
+with no second thought! Pretty much no one knew about the existence of this CD title,
 because I never submitted songs to public packs at the time. I made the songs available as downloads in the
 description of my YouTube videos. At that time, I was mostly making simfiles for myself, since I did not know
 how to get them accepted into the FFR R1 engine (see the song named Submission Rules). I am very nostalgic
