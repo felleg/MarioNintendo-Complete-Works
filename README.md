@@ -55,6 +55,8 @@ to start in Q4 2010, meaning everything created after (and including) `Nocturne 
 To the best of my knowledge, here is the order in which I stepped my files:
 
 <details><summary>Expand list</summary>
+<p>
+
 ```
 ~~ 2009 ~~
 Goodbye Yellow Brick Road (This file is lost, but existed for a year)
@@ -193,12 +195,15 @@ Aleph-0
 ~~ 2019 ~~
 Firewall
 ```
+
 </details>
 
 # Files not included in this pack (WIPs)
 Here is a list of files that I have left incomplete over the years:
 
 <details><summary>Expand list</summary>
+<p>
+
 ```
 900%MAX ANGERpower
 Bring Back That Leroy Brown (This file is lost, but the first 20 seconds were stepped. Circa 2009)
