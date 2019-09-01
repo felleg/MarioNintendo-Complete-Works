@@ -104,7 +104,7 @@ You will generally find two CD titles in this pack. They useful to distinguish m
 files.
 
 ### Original CD title
-![](mntitle.png)
+![](og-mntitle.png)
 This CD title is the original CD title I made for myself in Microsoft Paint, back in 2008 (or was it 2007?).
 If there's one thing you will notice, is that even after all these years, I still use Paint for just about
 everything.
@@ -125,7 +125,6 @@ and my username right under it in small cool stylish blocky 8-bit outlined freec
 
 (I feel like I'm 12)
 ```
-The resulting CD title: ![](mntitle.png)
 
 This was pretty much exactly the CD title I craved. I have been using the CD title ever since to identify my
 "modern" files. I consider my modern files to start in Q4 2010, meaning everything created after (and
