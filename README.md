@@ -63,7 +63,7 @@ Winter
 {Rose} Remastered
 Loituma speedcore
 
--- 2009 --
+~~ 2009 ~~
 Candy Pop
 Mr Larpus
 Metropolis
