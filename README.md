@@ -18,19 +18,21 @@ Don't want to download the full pack? Simply follow these steps:
 
 
 # Note about CD-titles
-You will generally find two CD titles in this pack. They useful to distinguish my older files from my newer
+You will generally find two CD titles in this pack. They are useful to distinguish my older files from my newer
 files.
 
 ### Original CD title
 ![](og-mntitle.png)
 This CD title is the original CD title I made for myself in Microsoft Paint, back in 2008 (or was it 2007?).
-If there's one thing you will notice, is that even after all these years, I still use Paint for just about
+If there's one thing you should notice, it's that even after all these years, I still use Paint for just about
 everything.
 
-I have used this CD title from 2008 to 2012. At that time, I was mostly making simfiles for myself, since I
-did not know how to get them accepted into the FFR R1 engine (see the song named Submission Rules). I am very
-nostalgic towards these files, but even I will admit they are often bad and/or awkward. In 2012, ScylaX made
-me a new CD title. I also implemented the newer CD title in my "modern" files from 2010 to 2012.
+I have used this CD title from 2008 to 2010. Pretty much no one knew about the existence of this CD title,
+because I never submitted songs to public packs at the time. I made the songs available as downloads in the
+description of my YouTube videos. At that time, I was mostly making simfiles for myself, since I did not know
+how to get them accepted into the FFR R1 engine (see the song named Submission Rules). I am very nostalgic
+towards these files, but even I will admit they are often bad and/or awkward. In 2012, ScylaX made me a new CD
+title. I also implemented the newer CD title in my "modern" files from 2010 to 2012.
 
 ### Current CD title
 ![](mntitle.png)
@@ -44,17 +46,16 @@ and my username right under it in small cool stylish blocky 8-bit outlined freec
 (I feel like I'm 12)
 ```
 
-This was pretty much exactly the CD title I craved. I have been using the CD title ever since to identify my
-"modern" files. I consider my modern files to start in Q4 2010, meaning everything created after (and
-including) `Nocturne Ab Min No 2`.
+Even though my wording was garbage, ScylaX understood and managed to deliver pretty much exactly the CD title
+I craved. I have been using this CD title ever since to identify my "modern" files. I consider my modern files
+to start in Q4 2010, meaning everything created after (and including) `Nocturne Ab Min No 2`.
 
 # Song creation timeline
-To the best of my knowledge, here is the rough order in which I stepped the files in this pack:
+To the best of my knowledge, here is the order in which I stepped my files:
 
 ```
 ~~ 2009 ~~
-Goodbye Yellow Brick Road (This file is lost)
-Bring Back That Leroy Brown (This file is lost)
+Goodbye Yellow Brick Road (This file is lost, but existed for a year)
 Winter
 {Rose} Remastered
 Candy Pop
@@ -189,4 +190,23 @@ Aleph-0
 
 ~~ 2019 ~~
 Firewall
+```
+
+# Files not included in this pack (WIPs)
+Here is a list of files that I have left incomplete over the years:
+
+```
+900%MAX ANGERpower
+Bring Back That Leroy Brown (This file is lost, but the first 20 seconds were stepped. Circa 2009)
+Circuit (Mario Kart 7 remix from Super Smash Bros. for Wii U)
+Cities of the Future (Infected mushrooms, milla remix)
+Diablosis Naga
+Dwelling of Doom (Shnabubula)
+Magnum (xKore)
+Manxome (Ryan Iyengar)
+naTivefAce (playable in Dragons Fury engine, mostly stepped by Razor though)
+PAC-MAN (Super Smash Bros. Wii U Version)
+Reeps 2.0
+steppin it up (Nick Perrin)
+Super Mario Dirty Mix (A physician & A Scholar, never got permission for FFR)
 ```
