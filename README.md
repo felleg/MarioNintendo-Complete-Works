@@ -58,13 +58,14 @@ To the best of my knowledge, here is the order in which I stepped my files:
 <p>
 
 ```
-~~ 2009 ~~
-Goodbye Yellow Brick Road (This file is lost, but existed for a year)
+~~ 2008 ~~
 Winter
 {Rose} Remastered
+Loituma speedcore
+
+-- 2009 --
 Candy Pop
 Mr Larpus
-Loituma Speedcore
 Metropolis
 Hell in 3 Seconds
 The Time Warp
@@ -206,11 +207,12 @@ Here is a list of files that I have left incomplete over the years:
 
 ```
 900%MAX ANGERpower
-Bring Back That Leroy Brown (This file is lost, but the first 20 seconds were stepped. Circa 2009)
+Bring Back That Leroy Brown (This file from 2008 is lost, but the first 20 seconds were stepped. Circa 2009)
 Circuit (Mario Kart 7 remix from Super Smash Bros. for Wii U)
 Cities of the Future (Infected mushrooms, milla remix)
 Diablosis Naga
 Dwelling of Doom (Shnabubula)
+Goodbye Yellow Brick Road (This filE from 2008 is completely lost)
 Magnum (xKore)
 Manxome (Ryan Iyengar)
 naTivefAce (playable in Dragons Fury engine, mostly stepped by Razor though)
