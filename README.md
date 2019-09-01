@@ -200,7 +200,7 @@ Firewall
 </details>
 
 # Files not included in this pack (WIPs)
-Here is a list of files that I have left incomplete over the years:
+Here is a list of files that I have left incomplete or have tragically been lost over the years:
 
 <details><summary>Expand list</summary>
 <p>
@@ -212,7 +212,7 @@ Circuit (Mario Kart 7 remix from Super Smash Bros. for Wii U)
 Cities of the Future (Infected mushrooms, milla remix)
 Diablosis Naga
 Dwelling of Doom (Shnabubula)
-Goodbye Yellow Brick Road (This filE from 2008 is completely lost)
+Goodbye Yellow Brick Road (This file from 2008 is completely lost)
 Magnum (xKore)
 Manxome (Ryan Iyengar)
 naTivefAce (playable in Dragons Fury engine, mostly stepped by Razor though)
