@@ -183,9 +183,9 @@ Ground Theme - Underground Theme
 	Hardwired
 	Area A
 	12-gauge pez dispenser
-	Boss Battle
 
 ~~ 2017 ~~
+Boss Battle
 Beep Beep I'm a Sheep
 I've Got Rhythm
 
