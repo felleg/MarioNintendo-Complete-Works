@@ -181,8 +181,8 @@ Ground Theme - Underground Theme
 	Megalovania (never added to VGMP4)
 // Also ...
 	Hardwired
-	12-gauge pez dispenser
 	Area A
+	12-gauge pez dispenser
 	Boss Battle
 
 ~~ 2017 ~~
