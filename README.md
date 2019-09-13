@@ -226,3 +226,6 @@ steppin it up (Nick Perrin)
 Super Mario Dirty Mix (A physician & A Scholar, never got permission for FFR)
 ```
 </details>
+
+# Thanks
+Thank you Iggybuggydo for the pack banner!
