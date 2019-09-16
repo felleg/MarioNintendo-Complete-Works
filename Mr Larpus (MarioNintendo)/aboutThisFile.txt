@@ -4,4 +4,8 @@ I'm sorry about the jackhammers during the guitar solo. I was playing using doub
 you'll be able to pass it by using the arrow keys and mashing arrows with your indexes as if you were playing
 Track and Field...  erm yeah, a file from a different era. Thank god I evolved!
 
+Did you know? The .sm file is called `bring back.sm` because it was copied from "Bring back that Leroy
+Brown". This is because I had no idea how to create a "new" .sm file, I always started from a pre-existing
+one!
+
 -mn
