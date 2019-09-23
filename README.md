@@ -28,7 +28,7 @@ This CD title is the original CD title I made for myself in Microsoft Paint, bac
 If there's one thing you should notice, it's that even after all these years, I still use Paint for just about
 everything.
 
-I have used this CD title from 2008 to 2010. Its file name was `!udderTitle.png` because I had copied the file
+I have used this CD title from 2008 to 2012. Its file name was `!udderTitle.png` because I had copied the file
 structure from a file I had downloaded on the FFR Simfile Database (Udderdude's {Rose} Remastered). I had not
 realized that "udder" in the filename referred to someone else's username, and so I lugged that CD title around
 with no second thought! Pretty much no one knew about the existence of this CD title,
@@ -36,7 +36,7 @@ because I never submitted songs to public packs at the time. I made the songs av
 description of my YouTube videos. At that time, I was mostly making simfiles for myself, since I did not know
 how to get them accepted into the FFR R1 engine (see the song named Submission Rules). I am very nostalgic
 towards these files, but even I will admit they are often bad and/or awkward. In 2012, ScylaX made me a new CD
-title. I also implemented the newer CD title in my "modern" files from 2010 to 2012.
+title.
 
 ## Current CD title
 ![](mntitle.png)
@@ -106,7 +106,7 @@ Xanthystrauma
 Never Enough
 S
 FF7 - Theme of Aeris
-ULTRANumb
+ULTRAnumb
 Pictures at an Exhibition
 Redirected Moonlight
 shes got moxie
