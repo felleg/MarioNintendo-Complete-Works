@@ -55,32 +55,32 @@ I craved. I have been using this CD title ever since to identify my "modern" fil
 to start in Q4 2010, meaning everything created after (and including) `Nocturne Ab Min No 2`.
 
 # Song creation timeline
-To the best of my knowledge, here is the order in which I stepped my files:
+To the best of my knowledge, here is the order in which I stepped my files. Note `(*)` denotes a song that was previously unreleased.
 
 <details><summary>Expand list</summary>
 <p>
 
 ```
 ~~ 2008 ~~
-Winter
-{Rose} Remastered
-Loituma speedcore
+(*) Winter
+(*) {Rose} Remastered
+(*) Loituma speedcore
 
 ~~ 2009 ~~
-Candy Pop
-Mr Larpus
-Metropolis
+(*) Candy Pop
+(*) Mr Larpus
+(*) Metropolis
 Hell in 3 Seconds
 The Time Warp
 Jungle
-Tricky's Song
-FFReedom
+(*) Tricky's Song
+(*) FFReedom
 
 ~~ 2010 ~~
 Don't give a FUCK
-Nocturne Ab Min No 2
+(*) Nocturne Ab Min No 2
 In Flux
-Spacefarer
+(*) Spacefarer
 Animus Intorqueo 1
 Animus Intorqueo 2
 Animus Intorqueo 3
@@ -89,11 +89,11 @@ Comfortably Lost
 Stress
 
 ~~ 2011 ~~
-Unf
+(*) Unf
 botu1
 Baby Still Too Fat
 Love, The Elephant
-He's A Pirate
+(*) He's A Pirate
 Mortal Kombat Metal Menu
 spanish
 Submission Rules
@@ -127,21 +127,21 @@ Felix^3
 Accelerator
 PWRPFF RAVES
 La fuite des jours
-Heaven's Gate
+(*) Heaven's Gate
 
 ~~ 2014 ~~
 Frainbreeze
-O Canada
-Wheelpower & Go
-Spinal Fluid Explosion Girl
-Space Threat
+(*) O Canada
+(*) Wheelpower & Go
+(*) Spinal Fluid Explosion Girl
+(*) Space Threat
 Shovel Knight Main Theme
 Magical Sound Shower
 
 ~~ 2015 ~~
-Moon Trance
-Entre l'ombre et la lumiere
-Fghjukiolkijhngbfvrgthyujikolkijuhgbfvrtgyhujioikj
+(*) Moon Trance
+(*) Entre l'ombre et la lumiere
+(*) Fghjukiolkijhngbfvrgthyujikolkijuhgbfvrtgyhujioikj
 Drive of Unliving Things
 Mario Paint Medley
 Ground Theme - Underground Theme
@@ -181,9 +181,9 @@ Ground Theme - Underground Theme
 	Gerudo Valley
 	Temple
 // September (after the VGMP4 release)
-	Megalovania (never added to VGMP4)
+	(*) Megalovania (never added to VGMP4)
 // Also ...
-	Hardwired
+	(*) Hardwired
 	Area A
 	12-gauge pez dispenser
 
@@ -194,11 +194,11 @@ I've Got Rhythm
 
 ~~ 2018 ~~
 Tiger Rag
-Computer Blues
-Aleph-0
+(*) Computer Blues
+(*) Aleph-0
 
 ~~ 2019 ~~
-Firewall
+(*) Firewall
 ```
 
 </details>
