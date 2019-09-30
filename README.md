@@ -55,7 +55,9 @@ I craved. I have been using this CD title ever since to identify my "modern" fil
 to start in Q4 2010, meaning everything created after (and including) `Nocturne Ab Min No 2`.
 
 # Song creation timeline
-To the best of my knowledge, here is the order in which I stepped my files. Note `(*)` denotes a song that was previously unreleased.
+To the best of my knowledge, here is the order in which I stepped my files. 
+
+Note: `(*)` denotes a song that was previously unreleased.
 
 <details><summary>Expand list</summary>
 <p>
