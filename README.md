@@ -40,7 +40,7 @@ title.
 
 ## Current CD title
 ![](mntitle.png)
-On September 24 2012, ![ScylaX](http://flashflashrevolution.com/profile/ScylaX) rocked my world by creating a
+On September 24 2012, [ScylaX](http://flashflashrevolution.com/profile/ScylaX) rocked my world by creating a
 brand new CD title for me. My request was the following:
 
 ```
