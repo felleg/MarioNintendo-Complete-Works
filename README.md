@@ -230,4 +230,4 @@ Super Mario Dirty Mix (A physician & A Scholar, never got permission for FFR)
 </details>
 
 # Thanks
-Thank you Iggybuggydo for the pack banner!
+Thank you [Iggybuggydo](http://www.flashflashrevolution.com/profile/iggybuggydo) for the pack banner!
