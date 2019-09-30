@@ -57,8 +57,6 @@ to start in Q4 2010, meaning everything created after (and including) `Nocturne 
 # Song creation timeline
 To the best of my knowledge, here is the order in which I stepped my files. 
 
-Note: `(*)` denotes a song that was previously unreleased.
-
 <details><summary>Expand list</summary>
 <p>
 
@@ -204,6 +202,8 @@ Tiger Rag
 ```
 
 </details>
+
+Note: `(*)` denotes a song that was previously unreleased.
 
 # Files not included in this pack (WIPs)
 Here is a list of files that I have left incomplete or have tragically been lost over the years:
