@@ -3,11 +3,17 @@ minipack of doom junk. It was time to make true art... Let me explain.
 
 Back in 2008 when I discovered StepMania, the first thing I wanted to attempt was creating songs. There were
 two problems: 1) all the songs I wanted to step didn't have a constant BPM, making it very hard to keep sync.
-2) I wasn't very good at stepping.
+2) I wasn't very good at stepping. 
 
-My first incomplete file was Goodbye Yellow Brick Road by Elton John. Doesn't scream StepMania material, I
-agree with you. The next one was Bring Back That Leroy Brown by Queen. Unfortunately, both songs were lost
-forever due to computer malfunctions. It's ok, they were not really great to begin with.
+All the experience I had prior to Stepmania was making songs for the Guitar Hero clone "Frets on Fire". (I'm
+sad to report all my Frets on Fire songs were lost, but they were nothing special. I distinctly remember
+making songs for "Yesterday", "Stairway to Heaven", "Pirates of the Caribbean theme", and "Whenever,
+Whenever". In most songs I was layering the drum and vocals into the guitar chart. What can I say... I was
+14!)
+
+My first incomplete Stepmania file was Goodbye Yellow Brick Road by Elton John. Doesn't scream StepMania
+material, I agree with you. The next one was Bring Back That Leroy Brown by Queen. Unfortunately, both songs
+were lost forever due to computer malfunctions. It's ok, they were not really great to begin with.
 
 Then, I stepped the files for the F8 Minipack of Doom (Hell in 3 Seconds, The Time Warp and Jungle). We all
 know how that went.
@@ -26,7 +32,7 @@ for me: his songs were mostly piano, which is one of my favorite styles, and wer
 could play my own songs. I believe in 2010-2011 I stepped 6 or 7 songs from the guy, it was insane. I even
 sent him a direct message on Newgrounds to ask for permission to use his songs in FFR, and he said YES!!
 
-Nocture Ab Min No. 2 was stepped WITHOUT DDReamStudio, of which I knew nothing at the time. I synced it out of
+Nocturne Ab Min No. 2 was stepped WITHOUT DDReamStudio, of which I knew nothing at the time. I synced it out of
 sheer determination and love for the song. It never made its way into FlashFlashRevolution, but it got the
 attention of psychoangel691, who invited me to join the Dragons Fury community. That community contained many
 people who would become the new generation of simfile makers for a certain period. I learned a great deal

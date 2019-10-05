@@ -5,4 +5,7 @@ The goal was to make a pad file.
 
 Yeah... I'm not good at making pad files. I tend to underestimate the difficulty a bit!
 
+If you play this in xmod, you'll see all the cool negative BPM tricks implemented by macgravel. This is black
+magic to me, and I think it looks really cool :)
+
 -mn

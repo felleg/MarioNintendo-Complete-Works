@@ -1,7 +1,7 @@
 This was a file meant for FlashFlashRevolution that unfortunately was never accepted. When stepping this, I
 tried to use the same tricks as when stepping Automata. Automata was hugely popular with the FFR's judges at
 the time. They were impressed with the way I stepped the beats that increased and decreased in speed ("red
-arrows"). The way this trick was achieved was by simply putting a beat on every occuring note in DDReamStudio:
+arrows"). The way this trick was achieved was by simply putting a beat on every occurring note in DDReamStudio:
 the speedups and slow-downs happened naturally. However, this effect fails in Unf because there are no
 speedups or slow-downs. Therefore, the effect of the red arrows falls completely flat!
 
