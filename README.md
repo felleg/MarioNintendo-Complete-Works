@@ -1,6 +1,7 @@
-# MarioNintendo Complete Works
+MarioNintendo Complete Works
+============================
 
-Thank you for downloading this pack. All of these songs have been created totally or in part
+Thank you for downloading this pack. All of these charts have been created totally or in part
 by me ([MarioNintendo](http://www.flashflashrevolution.com/profile/MarioNintendo/)), from 2008 to 2019.
 
 If you are curious about a specific file, find the `aboutThisFile.txt` included in
@@ -8,21 +9,33 @@ each song folder.
 
 Enjoy!
 
-# How to download this pack or specific songs
+How to download this pack (or specific songs) from GitLab
+=========================================================
+
+Please visit https://gitlab.com/felleg/marionintendo-complete-works
+
 <details><summary>Click for details</summary>
 Scroll back to the top of this page, and click the download button:
 ![How to download this pack](howtodownload.png)
+
+**Note: If you download the pack from GitLab, you will have to rename the pack folder from
+`marionintendo-complete-works-master` to `MarioNintendo Complete Works` if you want to play it over StepMania
+Online.**
 
 Don't want to download the full pack? Simply follow these steps:
 ![How to download a single song](download1song.png)
 </details>
 
 
-# Note about CD-titles
+Note about CD-titles
+====================
+
 You will generally find two CD titles in this pack. They are useful to distinguish my older files from my newer
 files.
 
-## Original CD title
+Original CD title
+-----------------
+
 ![](og-mntitle.png)
 This CD title is the original CD title I made for myself in Microsoft Paint, back in 2008.
 If there's one thing you should notice, it's that even after all these years, I still use Paint for just about
@@ -38,7 +51,9 @@ how to get them accepted into the FFR R1 engine (see the song named Submission R
 towards these files, but even I will admit they are often bad and/or awkward. In 2012, ScylaX made me a new CD
 title.
 
-## Current CD title
+Current CD title
+----------------
+
 ![](mntitle.png)
 On September 24 2012, [ScylaX](http://flashflashrevolution.com/profile/ScylaX) rocked my world by creating a
 brand new CD title for me. My request was the following:
@@ -54,7 +69,9 @@ Even though my wording was garbage, ScylaX understood and managed to deliver pre
 I craved. I have been using this CD title ever since to identify my "modern" files. I consider my modern files
 to start in Q4 2010, meaning everything created after (and including) `Nocturne Ab Min No 2`.
 
-# Song creation timeline
+Song creation timeline
+======================
+
 To the best of my knowledge, here is the order in which I stepped my files. 
 
 <details><summary>Expand list</summary>
@@ -205,7 +222,9 @@ Tiger Rag
 
 Note: `(*)` denotes a song that was previously unreleased.
 
-# Files not included in this pack (WIPs)
+Files not included in this pack (WIPs)
+======================================
+
 Here is a list of files that I have left incomplete or have tragically been lost over the years:
 
 <details><summary>Expand list</summary>
@@ -229,5 +248,7 @@ Super Mario Dirty Mix (A physician & A Scholar, never got permission for FFR)
 ```
 </details>
 
-# Thanks
+Thanks
+======
+
 Thank you [Iggybuggydo](http://www.flashflashrevolution.com/profile/iggybuggydo) for the pack banner!
