@@ -18,9 +18,15 @@ Please visit https://gitlab.com/felleg/marionintendo-complete-works
 Scroll back to the top of this page, and click the download button:
 ![How to download this pack](howtodownload.png)
 
-**Note: If you download the pack from GitLab, you will have to rename the pack folder from
+Playing the pack with StepMania Online
+--------------------------------------
+
+**If you download the pack from GitLab, you will have to rename the pack folder from
 `marionintendo-complete-works-master` to `MarioNintendo Complete Works` if you want to play it over StepMania
 Online.**
+
+Downloading individual songs
+----------------------------
 
 Don't want to download the full pack? Simply follow these steps:
 ![How to download a single song](download1song.png)
