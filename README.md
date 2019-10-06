@@ -84,12 +84,14 @@ To the best of my knowledge, here is the order in which I stepped my files.
 <p>
 
 ```
-~~ 2008 ~~
+  2008
+========
 (*) Winter
 (*) {Rose} Remastered
 (*) Loituma speedcore
 
-~~ 2009 ~~
+  2009
+========
 (*) Candy Pop
 (*) Mr Larpus
 (*) Metropolis
@@ -99,7 +101,8 @@ Jungle
 (*) Tricky's Song
 (*) FFReedom
 
-~~ 2010 ~~
+  2010
+========
 Don't give a FUCK
 (*) Nocturne Ab Min No 2
 In Flux
@@ -111,7 +114,8 @@ Automata
 Comfortably Lost
 Stress
 
-~~ 2011 ~~
+  2011
+========
 (*) Unf
 botu1
 Baby Still Too Fat
@@ -125,7 +129,8 @@ umad
 I hate humans
 Xanthystrauma
 
-~~ 2012 ~~
+  2012
+========
 Never Enough
 S
 FF7 - Theme of Aeris
@@ -144,7 +149,8 @@ Unshakeable
 Car select
 A Crimson Rose and a Gin Tonic
 
-~~ 2013 ~~
+  2013
+========
 -Slapstick-
 Felix^3
 Accelerator
@@ -152,7 +158,8 @@ PWRPFF RAVES
 La fuite des jours
 (*) Heaven's Gate
 
-~~ 2014 ~~
+  2014
+========
 Frainbreeze
 (*) O Canada
 (*) Wheelpower & Go
@@ -161,7 +168,8 @@ Frainbreeze
 Shovel Knight Main Theme
 Magical Sound Shower
 
-~~ 2015 ~~
+  2015
+========
 (*) Moon Trance
 (*) Entre l'ombre et la lumiere
 (*) Fghjukiolkijhngbfvrgthyujikolkijuhgbfvrtgyhujioikj
@@ -169,26 +177,32 @@ Drive of Unliving Things
 Mario Paint Medley
 Ground Theme - Underground Theme
 
-~~ 2016 (craziest year) ~~
-// (Splitting by month because I made a lot of songs for VGMP4 !!)
-// January
+  2016 (most of these songs were included in VGMP4)
+========
+January
+-------
 	Chelnov Theme
-// February
+February
+--------
 	The Void of Space
 	A Beautiful Day For Golf
-// March
+March
+-----
 	Hope & Joy Peace & Love
 	DARK DEMON'S SONG
 	Gear Getaway
 	Balloon Fight Medley
-// April
+April
+-----
 	The Mysterious Murasame Castle
-// May
+May
+---
 	Black Rain
 	Coeur de Ceramique
 	Staff Credits (Mario Kart 7)
 	You're IZAYOI
-// June
+June
+----
 	City
 	Kingdom of Devotindos
 	Blue Field & Catch'em Theme
@@ -203,24 +217,29 @@ Ground Theme - Underground Theme
 	Underwater
 	Gerudo Valley
 	Temple
-// September (after the VGMP4 release)
-	(*) Megalovania (never added to VGMP4)
-// Also ...
+September (after the VGMP4 release)
+-----------------------------------
+	(*) Megalovania
+Also ...
+--------
 	(*) Hardwired
 	Area A
 	12-gauge pez dispenser
 
-~~ 2017 ~~
+  2017
+========
 Boss Battle
 Beep Beep I'm a Sheep
 I've Got Rhythm
 
-~~ 2018 ~~
+  2018
+========
 Tiger Rag
 (*) Computer Blues
 (*) Aleph-0
 
-~~ 2019 ~~
+  2019
+========
 (*) Firewall
 ```
 
