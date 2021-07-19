@@ -269,11 +269,9 @@ Thus, because my Undertale troll pack is already my most downloaded work (and al
 .
 ├── Chill (MarioNintendo)
 ├── Ghouliday (MarioNintendo)
-├── list.txt
 ├── Long Elevator (MarioNintendo)
 ├── Oh My (MarioNintendo)
 ├── Ooo (MarioNintendo)
-├── packlogo.png
 ├── Pathetic House (MarioNintendo)
 ├── She's Playing The Piano (MarioNintendo)
 ├── Small Shock (MarioNintendo)
