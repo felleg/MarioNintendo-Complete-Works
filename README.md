@@ -248,7 +248,7 @@ Tiger Rag
 
 Note: `(*)` denotes a song that was previously unreleased.
 
-Files not included in this pack (WIPs)
+Files not included in this pack
 ======================================
 
 ## Undertale Songs
