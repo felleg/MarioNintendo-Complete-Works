@@ -251,6 +251,19 @@ Note: `(*)` denotes a song that was previously unreleased.
 Files not included in this pack (WIPs)
 ======================================
 
+## Undertale Songs
+
+I have created an Undertale troll pack which is downloadable [here](https://www.stepmania.com/forums/song-packs/show/5564) ([mirror](https://www.mediafire.com/file/c01zje458zlbvzg/Undertale_Pack.zip/file)). The goal was to make fun of the tsunami of fan-content surrounding Undertale. 
+
+Interestingly, it is (by far) my most downloaded work: 47,000 downloads on MediaFire as of 2021/07/19. I don't get it.
+
+In comparison, the "F8 Minipack of Doom" (of which all files are included in this Complete Works archive) has 618 downloads.
+The Complete Works archive (which I poured my soul into) has 358 downloads.
+
+Thus, because my Undertale troll pack is already my most downloaded work (and also a complete waste of time), I have chosen to leave it out of this archive.
+
+## Lost files
+
 Here is a list of files that I have left incomplete or have tragically been lost over the years:
 
 <details><summary>Expand list</summary>
