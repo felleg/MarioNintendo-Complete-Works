@@ -262,6 +262,26 @@ The Complete Works archive (which I poured my soul into) has 358 downloads.
 
 Thus, because my Undertale troll pack is already my most downloaded work (and also a complete waste of time), I have chosen to leave it out of this archive.
 
+<details><summary>Click here for the list of songs contained in the Undertale Pack</summary>
+```
+.
+├── Chill (MarioNintendo)
+├── Ghouliday (MarioNintendo)
+├── list.txt
+├── Long Elevator (MarioNintendo)
+├── Oh My (MarioNintendo)
+├── Ooo (MarioNintendo)
+├── packlogo.png
+├── Pathetic House (MarioNintendo)
+├── She's Playing The Piano (MarioNintendo)
+├── Small Shock (MarioNintendo)
+├── Spooktune (MarioNintendo)
+├── The Barrier (MarioNintendo)
+└── You Idiot (MarioNintendo)
+```
+As you can see, pretty terrible selection (on purpose). :)
+</details>
+
 ## Lost files
 
 Here is a list of files that I have left incomplete or have tragically been lost over the years:
