@@ -263,6 +263,8 @@ The Complete Works archive (which I poured my soul into) has 358 downloads.
 Thus, because my Undertale troll pack is already my most downloaded work (and also a complete waste of time), I have chosen to leave it out of this archive.
 
 <details><summary>Click here for the list of songs contained in the Undertale Pack</summary>
+<p>
+
 ```
 .
 ├── Chill (MarioNintendo)
