@@ -242,6 +242,10 @@ Tiger Rag
   2019
 ========
 (*) Firewall
+
+  2021
+========
+(*) Character Select - Super Mario Bros. 2 Extended
 ```
 
 </details>
