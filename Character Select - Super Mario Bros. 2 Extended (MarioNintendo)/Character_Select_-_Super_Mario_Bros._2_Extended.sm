@@ -4,8 +4,8 @@
 #CREDIT:;
 #MUSIC:Character Select - Super Mario Bros. 2 Extended.mp3;
 #SELECTABLE:YES;
-#BACKGROUND:;
-#BANNER:;
+#BACKGROUND:bg.jpeg;
+#BANNER:bn.png;
 #CDTITLE:;
 #OFFSET:-0.0264853;
 #SAMPLESTART:0.000;
