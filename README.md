@@ -1,3 +1,5 @@
+![](apackbanner-thanksiggybuggydo.png)
+
 MarioNintendo Complete Works
 ============================
 
