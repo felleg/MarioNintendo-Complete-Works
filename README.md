@@ -248,6 +248,10 @@ Tiger Rag
   2021
 ========
 (*) Character Select - Super Mario Bros. 2 Extended
+
+  2022
+========
+(*) Golf - Wario Land 3
 ```
 
 </details>
