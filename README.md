@@ -252,6 +252,10 @@ Tiger Rag
   2022
 ========
 (*) Golf - Wario Land 3
+
+  2023
+========
+(*) The Pizza Story
 ```
 
 </details>
@@ -263,7 +267,7 @@ Files not included in this pack
 
 ## Undertale Songs
 
-I have created an Undertale troll pack which is downloadable [here](https://www.stepmania.com/forums/song-packs/show/5564) ([mirror](https://www.mediafire.com/file/c01zje458zlbvzg/Undertale_Pack.zip/file)). The goal was to make fun of the tsunami of fan-content surrounding Undertale.  I still have tremendous love for the game: it really helped me get through 2015. However, I was not a fan of its fandom.
+I have created an Undertale troll pack which is downloadable [here](https://www.stepmania.com/forums/song-packs/show/5564) ([mirror](https://gitlab.com/felleg/undertale-pack)). The goal was to make fun of the tsunami of fan-content surrounding Undertale.  I still have tremendous love for the game: it really helped me get through 2015. However, I was not a fan of its fandom.
 
 Interestingly, it is (by far) my most downloaded work: 47,000 downloads on MediaFire as of 2021/07/19. I don't get it.
 
