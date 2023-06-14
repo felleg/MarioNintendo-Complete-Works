@@ -4,8 +4,8 @@ MarioNintendo Complete Works
 ============================
 
 Thank you for downloading this pack. All of these charts have been created totally or in part
-by me ([MarioNintendo](http://www.flashflashrevolution.com/profile/MarioNintendo/)), from 2008 to 2019. If you
-have any questions or feedback, send me a PM or contact me on Discord (`@marionintendo#4348`). It would make my
+by me ([MarioNintendo](http://www.flashflashrevolution.com/profile/MarioNintendo/)), from 2008 to today. If you
+have any questions or feedback, send me a PM or contact me on Discord (`@felleg`). It would make my
 day!
 
 If you are curious about a specific file, find the `aboutThisFile.txt` included in each song folder.
