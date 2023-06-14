@@ -98,15 +98,15 @@ To the best of my knowledge, here is the order in which I stepped my files.
 (*) Candy Pop
 (*) Mr Larpus
 (*) Metropolis
-Hell in 3 Seconds
-The Time Warp
-Jungle
+(F8) Hell in 3 Seconds
+(F8) The Time Warp
+(F8) Jungle
 (*) Tricky's Song
 (*) FFReedom
 
   2010
 ========
-Don't give a FUCK
+(F8) Don't give a FUCK
 (*) Nocturne Ab Min No 2
 In Flux
 (*) Spacefarer
@@ -129,7 +129,7 @@ spanish
 Submission Rules
 Lives Without Meaning
 umad
-I hate humans
+(F8) I hate humans
 Xanthystrauma
 
   2012
@@ -260,7 +260,11 @@ Tiger Rag
 
 </details>
 
-Note: `(*)` denotes a song that was previously unreleased.
+Notes:
+- `(*)` denotes a song that was previously unreleased.
+- `(F8)` denotes a song that was previously released in the [F8 Minipack
+  of
+  Doom](https://www.flashflashrevolution.com/vbz/showthread.php?t=121168) in 2011
 
 Files not included in this pack
 ======================================
